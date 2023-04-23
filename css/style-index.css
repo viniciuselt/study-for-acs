@@ -93,3 +93,37 @@ table {
   footer{
     text-align: center;
   }
+
+  #conteudovid {
+    text-align: center;
+  }
+
+#quiz {
+	margin: 0 auto;
+	max-width: 600px;
+	text-align: center;
+}
+
+.question {
+	margin-bottom: 20px;
+	text-align: left;
+}
+
+button {
+	background-color: #4CAF50;
+	color: white;
+	border: none;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 20px;
+	cursor: pointer;
+}
+
+#results {
+	display: none;
+	margin-top: 50px;
+	text-align: center;
+}
