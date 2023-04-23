@@ -80,6 +80,16 @@ table {
     background-color: #f2f2f2;
   }
 
+  .esquerdo {
+    float: left;
+    width: 50%;
+  }
+  
+  .direito {
+    float: right;
+    width: 50%;
+  }
+
   footer{
     text-align: center;
   }
