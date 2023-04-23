@@ -110,7 +110,7 @@ table {
 }
 
 button {
-	background-color: #4CAF50;
+	background-color: #333;
 	color: white;
 	border: none;
 	padding: 10px 20px;
@@ -126,4 +126,16 @@ button {
 	display: none;
 	margin-top: 50px;
 	text-align: center;
+}
+
+@media screen and (max-width: 812px){
+  #logo{
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 400px){
+  #logo{
+    height: 100%;
+  }
 }
